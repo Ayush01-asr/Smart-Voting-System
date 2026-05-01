@@ -1,0 +1,82 @@
+[
+  {
+    "hash": "6b424b76693e324482ca94b71ea06ce779161cf938e9e01e0908f436c4938b92",
+    "prev": "",
+    "record": {
+      "voter_id": "451807",
+      "candidate_id": "451807",
+      "timestamp": "2025-11-02T12:17:57.801653"
+    },
+    "timestamp": "2025-11-02T12:17:57.801653"
+  },
+  {
+    "hash": "1357624b34de547f95af7a49022c2a0051fb85116b0a811c094f0849800d006c",
+    "prev": "6b424b76693e324482ca94b71ea06ce779161cf938e9e01e0908f436c4938b92",
+    "record": {
+      "voter_id": "130898",
+      "candidate_id": "C1",
+      "timestamp": "2025-11-03T16:22:00.651370"
+    },
+    "timestamp": "2025-11-03T16:22:00.654039"
+  },
+  {
+    "hash": "999b15ab72b684f3491bb68d2751d5891592b39d169d8a4ecbc376c70c89da60",
+    "prev": "1357624b34de547f95af7a49022c2a0051fb85116b0a811c094f0849800d006c",
+    "record": {
+      "voter_id": "300404",
+      "candidate_id": "C1",
+      "timestamp": "2025-11-05T04:41:18.132504"
+    },
+    "timestamp": "2025-11-05T04:41:18.154087"
+  },
+  {
+    "hash": "7b5078130a95ea0ef97050a75344dfcca3bb3f2cc0ff5e4c4add4c41f79cd5f8",
+    "prev": "999b15ab72b684f3491bb68d2751d5891592b39d169d8a4ecbc376c70c89da60",
+    "record": {
+      "voter_id": "090901",
+      "candidate_id": "C1",
+      "timestamp": "2025-11-05T04:46:58.134259"
+    },
+    "timestamp": "2025-11-05T04:46:58.153106"
+  },
+  {
+    "hash": "3ebc36e2e0883bdb31da595a4beb038860602c9c534e27332b2558d6d344e797",
+    "prev": "7b5078130a95ea0ef97050a75344dfcca3bb3f2cc0ff5e4c4add4c41f79cd5f8",
+    "record": {
+      "voter_id": "100103",
+      "candidate_id": "C1",
+      "timestamp": "2025-11-05T08:04:45.013008"
+    },
+    "timestamp": "2025-11-05T08:04:45.018564"
+  },
+  {
+    "hash": "a686e327040ba3208aceb30dc4a47d8120b276937fb9f9a583777d313f6bd272",
+    "prev": "3ebc36e2e0883bdb31da595a4beb038860602c9c534e27332b2558d6d344e797",
+    "record": {
+      "voter_id": "200203",
+      "candidate_id": "C1",
+      "timestamp": "2025-11-06T03:46:20.227263"
+    },
+    "timestamp": "2025-11-06T03:46:20.246583"
+  },
+  {
+    "hash": "5cac81687c85e57188520959e0b869a83aa57c2160d9be6a5ee19b83d8ecc6b7",
+    "prev": "a686e327040ba3208aceb30dc4a47d8120b276937fb9f9a583777d313f6bd272",
+    "record": {
+      "voter_id": "200206",
+      "candidate_id": "C3",
+      "timestamp": "2025-11-08T07:07:03.028107"
+    },
+    "timestamp": "2025-11-08T07:07:03.046159"
+  },
+  {
+    "hash": "865faa263d574daf5df6b7202bd6eec43a1fd676f70733aea610b12fae355a96",
+    "prev": "5cac81687c85e57188520959e0b869a83aa57c2160d9be6a5ee19b83d8ecc6b7",
+    "record": {
+      "voter_id": "010769",
+      "candidate_id": "C3",
+      "timestamp": "2026-02-22T16:26:23.797854"
+    },
+    "timestamp": "2026-02-22T16:26:23.799850"
+  }
+]
